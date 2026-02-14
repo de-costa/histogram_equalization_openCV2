@@ -4,7 +4,7 @@ This project implements Histogram Equalization using classical image processing 
 ## 💻 Project Overview
 
 
-## ⚙️ Techniques Used
+## ⚙️ Steps of this
 - Image Loading using OpenCV
 - Grayscale Conversion
 - Pixel Intensity Flattening
@@ -12,5 +12,9 @@ This project implements Histogram Equalization using classical image processing 
 - Global Histogram Equalization
 - Image Comparison Visualization
 
+## 🛠 Technologies
+
+- Python
+- OpenCV
 
 
