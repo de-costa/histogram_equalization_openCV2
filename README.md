@@ -5,12 +5,12 @@ This project implements Histogram Equalization using classical image processing 
 
 
 ## ⚙️ Techniques Used
--Image Loading using OpenCV
--Grayscale Conversion
--Pixel Intensity Flattening
--Histogram Plotting
--Global Histogram Equalization
--Image Comparison Visualization
+- Image Loading using OpenCV
+- Grayscale Conversion
+- Pixel Intensity Flattening
+- Histogram Plotting
+- Global Histogram Equalization
+- Image Comparison Visualization
 
 
 
